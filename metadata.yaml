@@ -1,0 +1,29 @@
+_repo: --_23854
+_version: 0.1.0
+alternative_title: Wenzi
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Xing, Jian
+    gutenberg_agent_id: '26087'
+    url: http://www.gutenberg.org/2009/agents/26087
+  editor:
+    agent_name: Lu, Yi-Shin
+    gutenberg_agent_id: '26086'
+    url: http://www.gutenberg.org/2009/agents/26086
+description: ''
+gutenberg_issued: '2007-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23854'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Taoism'
+- !lcc 'BL'
+title: 文子
+url: http://www.gutenberg.org/ebooks/23854
